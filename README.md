@@ -8,15 +8,15 @@ Welcome to the **FLEXISAF** project repository! This repo contains a series of m
 
 ```
 FLEXISAF
-├── Module 1/
+├── Module 1
 │   ├── Rock, Paper, Scissors.py
 │   ├── Tic-Tac-Toe.py
 │   ├── Data Visualization.ipynb
 │   └── company_sales_data.csv
-├── Module 2/
+├── Module 2
 │   ├── Module 2 pt1&2.ipynb
 │   └── SampleSuperstore.csv
-├── Module 3/
+├── Module 3
 │   ├── Visualization.ipynb
 │   └── SampleSuperstore.csv
 ```
@@ -102,7 +102,7 @@ Focused entirely on building insightful and appealing data visualizations.
 
 ## 🧑‍💻 Author
 
-**[Your Name]** – *Aspiring Data Analyst & Scientist*
+**Ayomikun** – *Aspiring Data Analyst & Scientist*
 
 > This project was created as part of a hands-on journey into data science using real-world datasets and creative problem-solving.
 
